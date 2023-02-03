@@ -17,12 +17,10 @@
   
   </div><br/>
   
-  Apaixonado por programação & Tecnologia 
+  Apaixonado por programação & Tecnologia.
+  
+  Estou estudando para ser um desenvolvedor Front-End.
 
 
-<!--
-**devMarVinicius/devMarVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
